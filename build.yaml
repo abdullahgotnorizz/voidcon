@@ -1,0 +1,4 @@
+---
+include:
+  - board: rpi_pico
+    shield: void40
