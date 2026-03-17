@@ -1,4 +1,4 @@
 ---
 include:
-  - board: rpi_pico
+  - board: rpi_pico/rp2040
     shield: void40
